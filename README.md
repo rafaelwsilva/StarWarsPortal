@@ -105,8 +105,8 @@ sudo cp <project_path>/app/* /var/www/html/starWarsPortal
 > Go to webserver folder and install the dependencies using composer
 
 ```
-cd /var/www/html/starWarsPortal
-composer install .
+cd /var/www/html/starWarsPortal/api
+composer install
 ```
 
 ### Running
